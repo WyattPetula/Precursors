@@ -19,7 +19,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * Custom flags, loading screens, and more
 
 # Dependencies and Recommended Mods
-![Tranquility](https://i.imgur.com/uAJipnE.png)
+![Echoooo](https://i.imgur.com/J8kYg7r.png)
 **REQUIRED**
 * KSP 1 1.9.x-1.12.x
 * Kopernicus Stable Branch 1.9.x-1.12.x: https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-june-25th-2022/
@@ -71,3 +71,4 @@ Precursors is licensed under **All Rights Reserved**. This license applies to KS
 
 ![Echo](https://i.imgur.com/eICENzr.png)
 ![Odyssey](https://i.imgur.com/T59Khd9.png)
+![Tranquility](https://i.imgur.com/nSjb9Pj.png)
