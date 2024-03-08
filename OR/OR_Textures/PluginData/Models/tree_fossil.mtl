@@ -1,0 +1,15 @@
+# Blender MTL File: 'scourge_tree.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Kerbal Space Program\\GameData\\OR\\OR_Textures\\PluginData\\Terrain\\Metal_Normal.dds
+map_Kd C:\\Kerbal Space Program\\GameData\\OR\\OR_Textures\\PluginData\\Terrain\\Metal.dds
+map_Ns C:\\Blender_Experiments\\Textures\\oak-bark-rough3.png

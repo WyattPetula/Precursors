@@ -1,0 +1,4 @@
+Frontier is supposed to have a WHITE atmosphere. If the atmosphere is BLUE in-game, please do the following:
+- Update Precursors to the latest version
+
+If this step does not fix the issue, please contact me! Thanks.

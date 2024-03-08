@@ -1,0 +1,17 @@
+VERSION: 1.6.5
+
+Precursors is a modification of Kerbal Space Program consisting of textures and configuration files.
+Content in the OR folder that is not elsewhere mentioned in this file is licenced under All Rights Reserved.
+You cannot recreate this mod in KSP 2 and/or claim my work and ideas as your own.
+
+Credits
+	
+  1. Sigma Loading Screens by forum user Sigma88 for the ability to add custom screens and tips (https://github.com/Sigma88/Sigma-LoadingScreens). Sigma Loading Screens is licensed by All Rights Reserved, and all distribution conditions have been met.
+  
+	Conditions for usage of Sigma Loading Screens: Only files from the official github releases can be distributed (excluded the Source Code). None of the files and folders can be modified or renamed. 
+	You can distribute only the "LoadingScreens" folder found in the archive. The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
+  
+  2. One of Abyss' cloud maps is derived from BoulderCo's Eve cloud map.
+  3. Rage, Serenity, and Tranquility are derivatives of Jupiter, Saturn, and Uranus textures available online.
+	
+Anything mentioned in the credits is not licensed under Precursors' license.
