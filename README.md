@@ -38,7 +38,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * Other system replacers
 
 # Installation
-![Abyss](https://i.imgur.com/T7Liy1M.png)
+![Serenity](https://i.imgur.com/pboIvmo.png)
 
 * Unzip or extract all from the Precursors folder
 * Place the contents of Precursors's GameData folder (which should contain a folder called OR) into KSP's GameData folder
@@ -48,7 +48,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * If everything is installed correctly, a white and pink planet will be visible on the main menu
 
 # Support and Known Issues
-![Silence](https://i.imgur.com/YJW9P6I.png)
+![Silence](https://i.imgur.com/TwsGBFs.png)
 
 **GETTING SUPPORT**
 
@@ -69,6 +69,5 @@ Precursors is licensed under **All Rights Reserved**. This license applies to KS
 * **FORUM PAGE:** https://forum.kerbalspaceprogram.com/topic/205101-19x-112x-precursors-v164-upcoming-update-13000-downloads/
 * **DISCORD** - Wpetula
 
-![Echo](https://i.imgur.com/eICENzr.png)
-![Odyssey](https://i.imgur.com/T59Khd9.png)
-![Tranquility](https://i.imgur.com/nSjb9Pj.png)
+![Fracture](https://i.imgur.com/f7l2vzL.png)
+![Rage](https://i.imgur.com/4yfkaqv.png)
