@@ -1,8 +1,8 @@
-VERSION: 1.6.5
+VERSION: 1.8
 
 Precursors is a modification of Kerbal Space Program consisting of textures and configuration files.
 Content in the OR folder that is not elsewhere mentioned in this file is licenced under All Rights Reserved.
-You cannot recreate this mod in KSP 2 and/or claim my work and ideas as your own.
+You cannot recreate this mod in KSP 2 or KSA (Rocketwertz) and/or claim my work and ideas as your own.
 
 Credits
 	
@@ -13,5 +13,6 @@ Credits
   
   2. One of Abyss' cloud maps is derived from BoulderCo's Eve cloud map.
   3. Rage, Serenity, and Tranquility are derivatives of Jupiter, Saturn, and Uranus textures available online.
+  4. I use custom PQS Mods by forum users Niako and Lt_Duckweed to enhance terrain quality and create a glowing terrain effect, respectively.
 	
 Anything mentioned in the credits is not licensed under Precursors' license.
