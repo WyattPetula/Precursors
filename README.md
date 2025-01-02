@@ -5,29 +5,30 @@ The discovery of mysterious SSTV signals originating from Duna was a monumental 
 
 …
 
-Alone among the stars, you are the future of the expedition. Rediscover ancient rocketry and flight technologies as you explore a vast, handcrafted solar system. Uncover the secrets behind the SSTV signals and the alien race that created them.
+Alone among the stars, you are the future of the expedition. Rediscover ancient rocketry and flight technologies as you explore a vast, handcrafted solar system. Uncover the secrets behind the SSTV signals and the alien civilization that created them.
 
 Precursors is a planet pack designed to provide a fresh and exciting experience to players. Stranded on a cold and barren world, traverse highly detailed celestial bodies and never-before-seen environments. Each planet and moon has a distinct challenge and appearance; hike across scalding volcanic mountains, maneuver through massive forests, and battle against relentless gravity on your journey across The Ignotum System. Collect thousands of custom science reports and unearth extensive lore in this continuation of the KSP story.
 
 # Contents
 ![Frontier](https://i.imgur.com/Z4h8jce.png)
 
-* Over 20 highly detailed celestial bodies to explore
+* 20+ unique, ultra-high-quality celestial bodies to explore
 * 1,000+ custom science reports across all bodies
 * Custom biomes on all celestial bodies
-* Intricate lore and story components
-* Custom flags, loading screens, and more
+* Intricate worldbuilding and optional story components
+* Custom flags, loading screens, and much, much more
 
 # Dependencies and Recommended Mods
 ![Echoooo](https://i.imgur.com/J8kYg7r.png)
 **REQUIRED**
-* KSP 1 1.9.x-1.12.x
-* Kopernicus Stable Branch 1.9.x-1.12.x: https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-june-25th-2022/
+* KSP1 1.9.x-1.12.x
+* Latest Kopernicus Stable Branch 1.9.x-1.12.x: https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-june-25th-2022/
 * Niako's Kopernicus Utilities (Smoother Heightmaps): https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/
+* Duckweed's VertexColorMapEmissive 1.0.0 (Emissives): https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/
 
 **RECOMMENDED**
-* Environmental Visual Enhancements Redux (only 2D clouds are currently supported)
-* Scatterer
+* Latest Environmental Visual Enhancements (EVE) Redux (only 2D clouds are currently supported)
+* Latest Scatterer
 
 **INCLUDED IN DOWNLOAD**
 * Sigma LoadingScreens
@@ -35,7 +36,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * Configs for Interstellar Fuel Switch
 
 **UNSUPPORTED**
-* Other system replacers
+* Other system-replacing mods
 
 # Installation
 ![Serenity](https://i.imgur.com/pboIvmo.png)
@@ -62,7 +63,7 @@ Hi there! I'm Wpetula. Over the past four years, I've had a wonderful time learn
 
 # Licensing
 
-Precursors is licensed under **All Rights Reserved**. This license applies to KSP 1, KSP 2, and all other games and media.
+Precursors is licensed under **All Rights Reserved**. This license applies to KSP 1, KSP 2, KSA, and all other media.
 
 # Contact
 
