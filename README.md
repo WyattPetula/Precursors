@@ -57,6 +57,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 If you want to get support, please include a detailed description of the problem, your KSP logs, *your installed mods*, and—if applicable—screenshots. If you do not include these requirements, you will not receive support.
 
 **KNOWN ISSUES**
+
 None at the moment, thankfully.
 
 # Author's Note
