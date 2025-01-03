@@ -13,10 +13,11 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 ![Frontier](https://i.imgur.com/Z4h8jce.png)
 
 * 20+ unique, ultra-high-quality celestial bodies to explore
-* 1,000+ custom science reports across all bodies
-* Custom biomes on all celestial bodies
+* 1,000+ custom science reports
+* Dozens of fleshed out, diverse biomes
 * Intricate worldbuilding and optional story components
 * Custom flags, loading screens, and much, much more
+* Oh yeah -- and easter eggs!
 
 # Dependencies and Recommended Mods
 ![Echoooo](https://i.imgur.com/J8kYg7r.png)
@@ -43,7 +44,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 
 * Unzip or extract all from the Precursors folder
 * Place the contents of Precursors's GameData folder (which should contain a folder called OR) into KSP's GameData folder
-* (!) Remove the stock Kerbin atmosphere from Scatterer (if issues arise, replace the stock Kerbin folder with Precursor's Frontier/Kerbin folder)
+* (Potentially necessary) Remove the stock Kerbin atmosphere from Scatterer (if issues arise, replace the stock Kerbin folder with Precursor's Frontier/Kerbin folder)
 * (!) Remove BoulderCo from the GameDate folder, if present
 * Start Kerbal Space Program
 * If everything is installed correctly, a white and pink planet will be visible on the main menu
@@ -56,7 +57,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 If you want to get support, please include a detailed description of the problem, your KSP logs, *your installed mods*, and—if applicable—screenshots. If you do not include these requirements, you will not receive support.
 
 **KNOWN ISSUES**
-* Maar's gunk ponds are somewhat broken (though less so than before)
+None at the moment, thankfully.
 
 # Author's Note
 Hi there! I'm Wpetula. Over the past four years, I've had a wonderful time learning how to engineer custom celestial bodies with the help of the awesome Kerbal Space Program community, especially the Kopernicus Discord group. Thank you everyone for your support! This has been a one-man project, and Precursors would not be what it is today without you.
