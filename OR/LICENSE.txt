@@ -1,18 +1,19 @@
-VERSION: 1.8
+VERSION: 1.9
 
 Precursors is a modification of Kerbal Space Program consisting of textures and configuration files.
-Content in the OR folder that is not elsewhere mentioned in this file is licenced under All Rights Reserved.
-You cannot recreate this mod in KSP 2 or KSA (Rocketwertz) and/or claim my work and ideas as your own.
+Content in the OR folder that is not elsewhere mentioned in this file is licensed under All Rights Reserved.
+You cannot recreate this mod in KSP 2 or KSA (RocketWertz) and/or claim my work and ideas as your own.
 
 Credits
 	
   1. Sigma Loading Screens by forum user Sigma88 for the ability to add custom screens and tips (https://github.com/Sigma88/Sigma-LoadingScreens). Sigma Loading Screens is licensed by All Rights Reserved, and all distribution conditions have been met.
   
-	Conditions for usage of Sigma Loading Screens: Only files from the official github releases can be distributed (excluded the Source Code). None of the files and folders can be modified or renamed. 
-	You can distribute only the "LoadingScreens" folder found in the archive. The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
+	~ Conditions for usage of Sigma Loading Screens: Only files from the official GitHub releases can be distributed (excluded the Source Code). None of the files and folders can be modified or renamed. 
+	~ You can distribute only the "LoadingScreens" folder found in the archive. The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
   
-  2. One of Abyss' cloud maps is derived from BoulderCo's Eve cloud map.
+  2. One of Abyss's cloud maps is derived from BoulderCo's Eve cloud map.
   3. Rage, Serenity, and Tranquility are derivatives of Jupiter, Saturn, and Uranus textures available online.
   4. I use custom PQS Mods by forum users Niako and Lt_Duckweed to enhance terrain quality and create a glowing terrain effect, respectively.
+  5. Precursors's Parallax implementation currently uses ParallaxStockTextures. All credit for these textures goes to GamesLinx.
 	
-Anything mentioned in the credits is not licensed under Precursors' license.
+Anything mentioned in these credits is not held under Precursors' license.
