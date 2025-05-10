@@ -20,6 +20,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * Oh yeah -- and easter eggs!
 
 # Dependencies and Recommended Mods
+![Echoooo](https://i.imgur.com/9Pj835S.png)
 ![Echoooo](https://i.imgur.com/J8kYg7r.png)
 **REQUIRED**
 * KSP1 1.9.x-1.12.x
@@ -40,7 +41,9 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * Other system-replacing mods
 
 # Installation
-![Serenity](https://i.imgur.com/pboIvmo.png)
+![Serenity](https://i.imgur.com/bShwKbz.png)
+![e](https://i.imgur.com/z66Wd6f.png)
+![Silence](https://i.imgur.com/4yfkaqv.png)
 
 * Unzip or extract all from the Precursors folder
 * Place the contents of Precursors's GameData folder (which should contain a folder called OR) into KSP's GameData folder
@@ -50,7 +53,8 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * If everything is installed correctly, a white and pink planet will be visible on the main menu
 
 # Support and Known Issues
-![Silence](https://i.imgur.com/TwsGBFs.png)
+![Silence](https://i.imgur.com/f7l2vzL.png)
+![Silence](https://i.imgur.com/C0d5taO.png)
 
 **GETTING SUPPORT**
 
@@ -72,5 +76,5 @@ Precursors is licensed under **All Rights Reserved**. This license applies to KS
 * **FORUM PAGE:** https://forum.kerbalspaceprogram.com/topic/205101-19x-112x-precursors-v164-upcoming-update-13000-downloads/
 * **DISCORD** - Wpetula
 
-![Fracture](https://i.imgur.com/f7l2vzL.png)
-![Rage](https://i.imgur.com/4yfkaqv.png)
+![Rage](https://i.imgur.com/q0gm6Rg.png)
+![R](https://i.imgur.com/LSSCGNl.png)
