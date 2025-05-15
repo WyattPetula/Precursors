@@ -1,4 +1,4 @@
-# Precursors Planet Pack (1.9.1)
+# Precursors Planet Pack [v1.9.1]
 ![Precursors](https://i.imgur.com/YdqtDtg.png)
 
 The discovery of mysterious SSTV signals originating from Duna was a monumental leap in the search for intelligent life. Deciphering the signals revealed The Ignotum System, a previously undiscovered solar system 3 light years from Kerbin. Having recently mastered interstellar travel and hibernation technologies, the Kerbals were quick to launch an expedition to this new system. The trip ran smoothly, but upon arrival....
