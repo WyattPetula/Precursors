@@ -1,0 +1,8 @@
+1. Download and unzip the Precursors folder from the GitHub repository.
+2. Select the internal OR folder, then move or copy it into into the KSP->GameData folder.
+3. Install all listed dependencies (and recommendations, if you wish) for Precursors (see the Forum or the GitHub README for the list).
+4. (!) If using EVE Volumetrics, remove the clouds.cfg file from KSP->GameData->StockVolumetricClouds and relocate it outside KSP-GameData.
+5. (!) If using Parallax, note that Parallax 2.0 is supported, NOT Parallax Continued. The game will still run with Parallax Continued but will lack Precursors content.
+6. Start Kerbal Space Program
+
+If everything is installed correctly, a ringed Kerbin-like planet will be visible on the main menu. Enjoy!

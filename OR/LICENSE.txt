@@ -1,8 +1,8 @@
-VERSION: 1.9.1
+VERSION: 2.0.0
 
 Precursors is a modification of Kerbal Space Program consisting of textures and configuration files.
 Content in the OR folder that is not elsewhere mentioned in this file is licensed under All Rights Reserved.
-You cannot recreate this mod in KSP 2 or KSA (RocketWertz) and/or claim my work and ideas as your own.
+You cannot recreate this mod in KSP 2, Kitten Space Agency, or any other medium. You cannot claim my work and ideas as your own or create derivatives of my textures.
 
 Credits
 	
@@ -11,8 +11,8 @@ Credits
 	~ Conditions for usage of Sigma Loading Screens: Only files from the official GitHub releases can be distributed (excluded the Source Code). None of the files and folders can be modified or renamed. 
 	~ You can distribute only the "LoadingScreens" folder found in the archive. The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
   
-  2. One of Abyss's cloud maps is derived from BoulderCo's Eve cloud map.
-  3. Rage, Serenity, and Tranquility are derivatives of Jupiter, Saturn, and Uranus textures available online.
+  2. Several cloud maps, coverage maps, and type maps derive from or are copies of Blackrack's gorgeous stock volumetric clouds. Several EVE configs also derive from his stock configs.
+  3. Precursors's aurora configs derive from jthero3's EVE Volumetric Aurora mod configs.
   4. I use custom PQS Mods by forum users Niako and Lt_Duckweed to enhance terrain quality and create a glowing terrain effect, respectively.
   5. Precursors's Parallax implementation currently uses ParallaxStockTextures. All credit for these textures goes to GamesLinx.
 	

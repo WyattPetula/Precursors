@@ -1,6 +1,0 @@
-Using EVE without Scatterer will cause Precursors' gas and ice giants to look funny. Precursor's EVE cloudmaps were developed alongside
-and thus partially depend on Scatterer.
-
-Make sure to remove BoulderCo from GameData.
-
-Volumetrics are not yet part of Precursors. Feel free to develop them!
