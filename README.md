@@ -1,4 +1,4 @@
-# Precursors Planet Pack [v2.0.0] - VOLUMETRICS UPDATE
+# Precursors Planet Pack 2.0.0 - VOLUMETRICS UPDATE
 ![Precursors](https://i.imgur.com/YdqtDtg.png)
 
 # OVERVIEW
