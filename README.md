@@ -1,4 +1,4 @@
-# Precursors Planet Pack 2.0.0 - VOLUMETRICS UPDATE
+# Precursors Planet Pack 2.1.0 - STARS, SHIMMERS, & FIREFLIES UPDATE
 ![Precursors](https://i.imgur.com/YdqtDtg.png)
 
 # OVERVIEW
@@ -42,14 +42,20 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 
 **Highly Recommended**
 * Volumetric EVE (Precursors 2.0.0+) or EVE Redux (Precursors 1.9.x and earlier): https://www.patreon.com/c/blackrack/posts or https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/
-* Latest Scatterer
+* Scatterer: https://github.com/LGhassen/Scatterer
+* Parallax 2.0: https://github.com/Gameslinx/Tessellation/releases
+* PlanetShine: https://github.com/PapaJoesSoup/ksp-planetshine
+* Firefly: https://github.com/M1rageDev/Firefly/releases
 
-**Supported Mods**
-* Community Resource Pack
-* Interstellar Fuel Switch
+**Other Notable Supported Mods**
+* Distant Object Enhancement: https://github.com/TheDarkBadger/DistantObject/releases
+* Community Resource Pack: https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases
+* Interstellar Fuel Switch: https://www.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch/download/3321162
+* TiltEm Continued: https://spacedock.info/mod/3909/TiltEm%20Continued
 
 **Unsupported Mods**
 * Other system-replacing mods / planet packs that replace the homeworld
+* Parallax Continued
 
 ![Serenity](https://i.imgur.com/BywkvyG.png)
 ![e](https://i.imgur.com/E3RgiRb.png)
