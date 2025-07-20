@@ -1,4 +1,4 @@
-VERSION: 2.0.0
+VERSION: 2.1.0
 
 Precursors is a modification of Kerbal Space Program consisting of textures and configuration files.
 Content in the OR folder that is not elsewhere mentioned in this file is licensed under All Rights Reserved.

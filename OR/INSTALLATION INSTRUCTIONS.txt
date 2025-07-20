@@ -6,3 +6,5 @@
 6. Start Kerbal Space Program
 
 If everything is installed correctly, a ringed Kerbin-like planet will be visible on the main menu. Enjoy!
+
+NOTE: KSPCommunityFixes may interfere with EVE Volumetrics. If you don't see rain or snow, try removing this mod first.
