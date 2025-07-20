@@ -1,4 +1,4 @@
-# Precursors Planet Pack 2.1.0 - STARS, SHIMMERS, & FIREFLIES UPDATE
+# Precursors Planet Pack 2.1.0 - STARS, SHIMMERS, & FIREFLIES
 ![Precursors](https://i.imgur.com/YdqtDtg.png)
 
 # OVERVIEW
