@@ -54,7 +54,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 * TiltEm Continued: https://spacedock.info/mod/3909/TiltEm%20Continued
 
 **Unsupported Mods**
-* Other system-replacing mods / planet packs that replace the homeworld
+* Other system-replacing mods or planet packs that replace the homeworld
 * Parallax Continued
 
 ![Serenity](https://i.imgur.com/BywkvyG.png)
@@ -66,7 +66,7 @@ Precursors is a planet pack designed to provide a fresh and exciting experience 
 If you want to get support, please include a detailed description of the problem, your KSP logs, *your installed mods*, and—if applicable—screenshots. If you do not include these requirements, you will not receive support.
 
 ![Silence](https://i.imgur.com/qyf6Hig.png)
-![Silence](https://i.imgur.com/OWQF3SK.png)
+![Silence](https://i.imgur.com/EIRC7Tl.png)
 ![Silence](https://i.imgur.com/YB9K1eW.png)
 
 # AUTHOR'S NOTE
@@ -81,4 +81,4 @@ Precursors is licensed under **All Rights Reserved**. This license applies to KS
 * **FORUM PAGE:** https://forum.kerbalspaceprogram.com/topic/205101-19x-112x-precursors-v164-upcoming-update-13000-downloads/
 * **DISCORD** - Wpetula
 
-![Rage](https://i.imgur.com/LSSCGNl.png)
+![Rage](https://i.imgur.com/KUq4NNb.png)
