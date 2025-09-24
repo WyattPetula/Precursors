@@ -1,5 +1,7 @@
 # Precursors Planet Pack 2.1.1 - STARS, SHIMMERS, & FIREFLIES
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/WyattPetula/Precursors/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/WyattPetula/Precursors/total) 
+
+(15,800+ downloads on SpaceDock!)
 ![Precursors](https://i.imgur.com/YdqtDtg.png)
 
 # OVERVIEW
